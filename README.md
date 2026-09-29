@@ -5,7 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
-A minimalist web design showcase by Lance Ducante, built with standard HTML, CSS, and JavaScript. It introduces minimalism and lets visitors explore design directions for their own websites.
+A minimalist web design showcase, built with standard HTML, CSS, and JavaScript. It introduces minimalism and lets visitors explore design directions for their own websites.
 
 ## Features
 
