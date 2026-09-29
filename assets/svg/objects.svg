@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="760" viewBox="0 0 640 760">
+  <title>Objects for everyday rituals</title><desc>Two sculptural green ceramic vessels on a pale pedestal in sunlight.</desc>
+  <rect width="640" height="760" fill="#d6e2d8"/>
+  <path d="M470 0H640V760H0V605Z" fill="#a3c0b0" opacity=".5"/>
+  <path d="M105 527H497L572 572H160Z" fill="#f3f6f2"/>
+  <path d="M160 572H572V760H160Z" fill="#a3c0b0"/>
+  <path d="M105 527L160 572V760H105Z" fill="#4c6b5e"/>
+  <ellipse cx="333" cy="526" rx="137" ry="19" fill="#4c6b5e" opacity=".25"/>
+  <path d="M256 211H350L343 300C345 341 412 356 412 426C412 492 374 524 307 524C240 524 202 492 202 426C202 356 269 341 263 300Z" fill="#4c6b5e"/>
+  <path d="M256 211H280L287 305C287 354 249 378 249 433C249 480 266 513 291 523C233 519 202 488 202 426C202 356 269 341 263 300Z" fill="#a3c0b0"/>
+  <ellipse cx="303" cy="211" rx="47" ry="12" fill="#a3c0b0"/><ellipse cx="303" cy="212" rx="35" ry="6" fill="#1b2a24"/>
+  <path d="M391 411H479L466 530C463 551 408 551 405 530Z" fill="#d6e2d8"/>
+  <ellipse cx="435" cy="411" rx="44" ry="12" fill="#f3f6f2"/><ellipse cx="435" cy="412" rx="34" ry="7" fill="#4c6b5e"/>
+  <path d="M470 439C525 421 525 503 469 495" fill="none" stroke="#d6e2d8" stroke-width="15"/>
+</svg>

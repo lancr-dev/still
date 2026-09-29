@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="760" viewBox="0 0 640 760">
+  <title>Room to grow</title><desc>A botanical illustration of a branching plant with generous green leaves.</desc>
+  <rect width="640" height="760" fill="#a3c0b0"/>
+  <path d="M60 760V275a260 260 0 0 1 520 0v485Z" fill="#d6e2d8"/>
+  <path d="M315 760C326 638 299 582 323 467C346 357 301 291 326 177M316 628L210 503M321 526L426 414M326 390L230 293M326 284L398 205" fill="none" stroke="#4c6b5e" stroke-width="7"/>
+  <path d="M210 505C125 504 119 433 113 391C193 393 222 448 210 505Z" fill="#4c6b5e"/>
+  <path d="M271 575C181 593 137 558 119 522C187 492 247 520 271 575Z" fill="#1b2a24"/>
+  <path d="M425 414C418 332 462 305 513 284C525 355 488 411 425 414Z" fill="#4c6b5e"/>
+  <path d="M356 491C395 423 463 443 509 453C462 515 403 525 356 491Z" fill="#1b2a24"/>
+  <path d="M230 293C158 304 151 229 143 195C210 197 247 240 230 293Z" fill="#4c6b5e"/>
+  <path d="M315 370C240 387 216 344 200 321C255 303 300 315 315 370Z" fill="#a3c0b0"/>
+  <path d="M397 206C368 148 414 96 442 76C470 139 446 184 397 206Z" fill="#4c6b5e"/>
+  <path d="M326 204C268 173 282 113 310 78C341 108 351 161 326 204Z" fill="#1b2a24"/>
+</svg>

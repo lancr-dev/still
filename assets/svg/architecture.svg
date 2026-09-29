@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="760" viewBox="0 0 640 760">
+  <title>A study in space</title>
+  <desc>A sage plaster wall with an arched passage, three steps, and long afternoon shadows.</desc>
+  <rect width="640" height="760" fill="#d6e2d8"/>
+  <path d="M0 0H640V575H0Z" fill="#a3c0b0"/>
+  <path d="M0 0H115V575H0Z" fill="#4c6b5e"/>
+  <path d="M115 0H152V575H115Z" fill="#1b2a24" opacity=".15"/>
+  <path d="M270 575V265a125 125 0 0 1 250 0v310Z" fill="#4c6b5e"/>
+  <path d="M307 575V276a88 88 0 0 1 176 0v299Z" fill="#1b2a24"/>
+  <path d="M401 191a88 88 0 0 1 82 85v299H401Z" fill="#4c6b5e"/>
+  <path d="M401 390L483 337V575H401Z" fill="#a3c0b0"/>
+  <path d="M307 575L401 513H483V575Z" fill="#d6e2d8"/>
+  <path d="M115 0H640V80L115 396Z" fill="#d6e2d8" opacity=".32"/>
+  <path d="M270 575H520L640 653V760H550Z" fill="#4c6b5e" opacity=".28"/>
+  <path d="M250 575H536V611H250Z" fill="#d6e2d8"/>
+  <path d="M250 611H536V625H250Z" fill="#4c6b5e"/>
+  <path d="M221 625L250 611H536L565 625Z" fill="#f3f6f2"/>
+  <path d="M221 625H565V663H221Z" fill="#a3c0b0"/>
+  <path d="M192 678L221 663H565L594 678Z" fill="#f3f6f2"/>
+  <path d="M192 678H594V719H192Z" fill="#a3c0b0"/>
+  <path d="M0 760V575H115L302 760Z" fill="#4c6b5e" opacity=".22"/>
+</svg>
